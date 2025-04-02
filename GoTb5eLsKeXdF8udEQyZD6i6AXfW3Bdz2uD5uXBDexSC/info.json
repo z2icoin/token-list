@@ -1,0 +1,18 @@
+{
+    "name": "Z2I Coin",
+    "symbol": "Z2I",
+    "address": "GoTb5eLsKeXdF8udEQyZD6i6AXfW3Bdz2uD5uXBDexSC",
+    "decimals": 9,
+    "logoURI": "https://raw.githubusercontent.com/z2icoin/token-list/main/assets/mainnet/GoTb5eLsKeXdF8udEQyZD6i6AXfW3Bdz2uD5uXBDexSC/logo.png",
+    "tags": [
+        "community-token",
+        "z2i",
+        "crypto",
+        "project-zero-infinity"
+    ],
+    "extensions": {
+        "website": "https://z2i.com",
+        "github": "https://github.com/z2icoin",
+        "description": "Z2I Coin is a community-driven token created by ZERO & INFINITY to represent freedom, vision and hustle. From 0 to infinity."
+    }
+}
